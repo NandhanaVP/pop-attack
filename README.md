@@ -78,7 +78,7 @@ Run the game:
 python main.py
 
 
-# Screenshots (Add at least 3)
+# Screenshots 
 Game starts
 <img width="1215" height="958" alt="Screenshot 2025-08-09 031359" src="https://github.com/user-attachments/assets/ae0e1cc0-e38d-439d-b2da-482b57dab112" />
 
