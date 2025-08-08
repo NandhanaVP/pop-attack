@@ -15,7 +15,7 @@ pygame.display.set_caption("🫧Bubble Popper Game!")
 
 # Load background image
 try:
-    background = pygame.image.load("bgimg.jpg").convert()
+    background = pygame.image.load("background1.jpg").convert()
     background = pygame.transform.scale(background, (WIDTH, HEIGHT))
 except pygame.error:
     background = None
