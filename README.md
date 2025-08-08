@@ -28,21 +28,16 @@ For Software:
 - Programming Languages: Python 3
 - Libraries/Frameworks:Pygame – Used for game development, including graphics rendering, event handling, sound playback, and game loop management.
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:This game is developed in Python using the Pygame library. To run it, you need to have Python installed on your machine along with Pygame.
 
 # Installation
-[commands]
 Make sure you have Python 3.x installed. Then install Pygame using the following command:
 pip install pygame
 
 # Run
-[commands]
 Download or clone the project files into a folder.
 Ensure the following files are in the same directory:
 main.py (your main game file)
@@ -84,64 +79,31 @@ python main.py
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Game starts*
-![alt text](<Screenshot 2025-08-09 031359.png>)
+Game starts
+<img width="1215" height="958" alt="Screenshot 2025-08-09 031359" src="https://github.com/user-attachments/assets/ae0e1cc0-e38d-439d-b2da-482b57dab112" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Counts the no of popped bubbles.*
-![alt text](<Screenshot 2025-08-09 031456.png>)
-![Screenshot3](Add screenshot 3 here with proper name)
-*Game over when 10 bubbles have escaped.*
-![alt text](<Screenshot 2025-08-09 031515.png>)
+Counts the no of popped bubbles.
+<img width="1197" height="934" alt="Screenshot 2025-08-09 031456" src="https://github.com/user-attachments/assets/2fc890cc-dc7d-46c1-9d93-9f57acca901a" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Game Flow:
-[Start Game]
-    ↓
-[Player clicks bubbles]
-    ↓
-[Bubbles float faster over time]
-    ↓
-[If 10 missed → Game Over]
-    ↓
-[Try Again button → Reset game]
 
-For Hardware:
+Game over when 10 bubbles have escaped.
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+<img width="1201" height="934" alt="Screenshot 2025-08-09 031515" src="https://github.com/user-attachments/assets/63aaebd9-fcf2-4cb2-9095-2e03bef3ed98" />
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [<video controls src="popscreen_recording-1.mp4" title="Title"></video>]
-*Explain what the video demonstrates*
 Click bubbles to pop them
 Bubbles float with increasing speed
 Game over after 10 missed bubbles
 Try Again" button for quick restart
 Realistic bubble visuals and optional sound
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- Nandhana VP: [Specific contributions]
-- Meenakshi Chandran: [Specific contributions]
+- Nandhana VP: Aesthetic enhancement
+- Meenakshi Chandran: Coding
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
