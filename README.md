@@ -9,14 +9,15 @@
 
 
 ### Team Members
-- Team Lead: Nandhana VP - [SSET]
-- Member 2: [Meenakshi Chandran] - [SSET]
+- Team Lead: Nandhana VP - SSET
+- Member 2: Meenakshi Chandran - SSET
 
 ### Project Description
 Bubble Popper Game is a fun and interactive game built with Pygame where players pop floating bubbles before they escape off the screen. The game features smooth animations, sound effects, and increasing difficulty over time for an engaging experience.
 
 ### The Problem (that doesn't exist)
-The code provides a fun and low-effort way for lazy people with lots of free time to stay entertained. By popping bubbles in a relaxing, endless game loop, users can easily pass time without stress or complex tasks. It's a simple solution to boredom with minimal mental effort.
+How do lazy people with a lot of time kill time?
+The game provides a fun and low-effort way for lazy people with lots of free time to stay entertained. By popping bubbles in a relaxing, endless game loop, users can easily pass time without stress or complex tasks. It's a simple solution to boredom with minimal mental effort.
 
 ### The Solution (that nobody asked for)
 This Bubble Popper game provides a simple and enjoyable way to kill time by offering a casual, engaging activity. It helps users relax and have fun by popping bubbles, making it a perfect distraction during breaks or downtime.
@@ -33,29 +34,79 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:This game is developed in Python using the Pygame library. To run it, you need to have Python installed on your machine along with Pygame.
+
 # Installation
 [commands]
+Make sure you have Python 3.x installed. Then install Pygame using the following command:
+pip install pygame
 
 # Run
 [commands]
+Download or clone the project files into a folder.
+Ensure the following files are in the same directory:
+main.py (your main game file)
+background1.jpg (optional background image)
+pop.wav (optional pop sound)
+Run the game using:
+python main.py
 
 ### Project Documentation
 For Software:
+Bubble Popper Game
+A simple and relaxing game built with Python and Pygame where you pop floating bubbles before they escape. Ideal for killing time with minimal effort.
+
+Overview
+Problem Solved:
+How can lazy people with lots of free time kill time?
+This game provides a low-effort, fun way to stay entertained by popping bubbles endlessly.
+
+Technologies Used:
+Language: Python 3
+Library: Pygame
+
+System Requirements:
+Python 3.6 or later
+Pygame library
+OS: Windows / macOS / Linux
+
+Installation:
+Install Python and Pygame:
+pip install pygame
+
+How to Run:
+Place the following files in one folder:
+main.py
+background1.jpg (optional background image)
+pop.wav (optional sound)
+Run the game:
+python main.py
+
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Game starts*
+![alt text](<Screenshot 2025-08-09 031359.png>)
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
+*Counts the no of popped bubbles.*
+![alt text](<Screenshot 2025-08-09 031456.png>)
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Game over when 10 bubbles have escaped.*
+![alt text](<Screenshot 2025-08-09 031515.png>)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Game Flow:
+[Start Game]
+    ↓
+[Player clicks bubbles]
+    ↓
+[Bubbles float faster over time]
+    ↓
+[If 10 missed → Game Over]
+    ↓
+[Try Again button → Reset game]
 
 For Hardware:
 
@@ -78,16 +129,19 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[<video controls src="popscreen_recording-1.mp4" title="Title"></video>]
 *Explain what the video demonstrates*
-
+Click bubbles to pop them
+Bubbles float with increasing speed
+Game over after 10 missed bubbles
+Try Again" button for quick restart
+Realistic bubble visuals and optional sound
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nandhana VP: [Specific contributions]
+- Meenakshi Chandran: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
