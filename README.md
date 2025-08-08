@@ -1,34 +1,31 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Pop-attack] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [M&N]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Nandhana VP - [SSET]
+- Member 2: [Meenakshi Chandran] - [SSET]
 
 ### Project Description
-[2-3 lines about what your project does]
+Bubble Popper Game is a fun and interactive game built with Pygame where players pop floating bubbles before they escape off the screen. The game features smooth animations, sound effects, and increasing difficulty over time for an engaging experience.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The code provides a fun and low-effort way for lazy people with lots of free time to stay entertained. By popping bubbles in a relaxing, endless game loop, users can easily pass time without stress or complex tasks. It's a simple solution to boredom with minimal mental effort.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+This Bubble Popper game provides a simple and enjoyable way to kill time by offering a casual, engaging activity. It helps users relax and have fun by popping bubbles, making it a perfect distraction during breaks or downtime.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Programming Languages: Python 3
+- Libraries/Frameworks:Pygame – Used for game development, including graphics rendering, event handling, sound playback, and game loop management.
 
 For Hardware:
 - [List main components]
